@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xc/StudioProjects/alipay_demo/app/build/intermediates/res/merged/release/layout/pay_external.xml",
+        "source": "/Users/xc/StudioProjects/alipay_demo/app/src/main/res/layout/pay_external.xml"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/alipay_demo/app/build/intermediates/res/merged/release/layout/pay_main.xml",
+        "source": "/Users/xc/StudioProjects/alipay_demo/app/src/main/res/layout/pay_main.xml"
+    }
+]

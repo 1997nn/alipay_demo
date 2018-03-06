@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xc/StudioProjects/alipay_demo/app/build/intermediates/res/merged/release/drawable-hdpi/msp_demo_title_bg.png",
+        "source": "/Users/xc/StudioProjects/alipay_demo/app/src/main/res/drawable-hdpi/msp_demo_title_bg.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/alipay_demo/app/build/intermediates/res/merged/release/drawable-hdpi/msp_demo_title.png",
+        "source": "/Users/xc/StudioProjects/alipay_demo/app/src/main/res/drawable-hdpi/msp_demo_title.png"
+    },
+    {
+        "merged": "/Users/xc/StudioProjects/alipay_demo/app/build/intermediates/res/merged/release/drawable-hdpi/msp_icon.png",
+        "source": "/Users/xc/StudioProjects/alipay_demo/app/src/main/res/drawable-hdpi/msp_icon.png"
+    }
+]

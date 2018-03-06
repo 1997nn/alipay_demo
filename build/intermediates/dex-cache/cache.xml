@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/xc/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/xc/StudioProjects/alipay_demo/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0_15edd7280323b753c5427feed90efea9648adde9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xc/StudioProjects/alipay_demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/xc/StudioProjects/alipay_demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.0_3fceb68595892429fd12c2573e0e7d13b413f85d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xc/StudioProjects/alipay_demo/app/libs/alipaySdk-20170922.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="7a534fa553c844a7ef3475eada45f5a81a170f88">
+        <dex dex="/Users/xc/StudioProjects/alipay_demo/app/build/intermediates/pre-dexed/debug/alipaySdk-20170922_4598bfd4e12e62186705cf0f95822da521de1e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xc/StudioProjects/alipay_demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/xc/StudioProjects/alipay_demo/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0_6f3bacb6b1af2a1a8a6d19dc84d1847653c014c9.jar" />
+    </item>
+
+</items>
